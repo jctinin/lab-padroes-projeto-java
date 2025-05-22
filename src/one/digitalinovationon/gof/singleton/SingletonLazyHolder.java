@@ -1,4 +1,4 @@
-package one.digitalinovationon.gof;
+package one.digitalinovationon.gof.singleton;
 
 
 /**
